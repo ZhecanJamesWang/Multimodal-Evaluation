@@ -19,10 +19,11 @@ Currently, ME is built on top of Visual Commonsense Reasoning (VCR). For every o
 As shown in the example below, Q1 is the original VCR question and Q2, Q3 and Q4 are our sub-questions.
 
 An example of VCR image: 
-![alt text](https://github.com/ZhecanJamesWang/Multimodal-Evaluation/blob/gh-pages/example.jpg "example")
+![alt text](example.jpg "example")
 
+<img src="example.jpg" alt="lasagna">
 
-![alt text](https://github.com/ZhecanJamesWang/Multimodal-Evaluation/blob/gh-pages/example2.jpg "example2")
+![alt text](example2.jpg "example2")
 
 
 ### Support or Contact
