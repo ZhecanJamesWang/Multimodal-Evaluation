@@ -21,7 +21,7 @@ As shown in the example below, Q1 is the original VCR question and Q2, Q3 and Q4
 An example of VCR image: 
 ![alt text](example.jpg "example")
 
-<img src="example.jpg" alt="lasagna">
+<!-- <img src="example.jpg" alt="lasagna"> -->
 
 ![alt text](example2.jpg "example2")
 
