@@ -10,6 +10,15 @@ To provide an in-depth analysis, we present a **Multimodal Evaluation (ME)** pip
 
 <!-- We then take a step further to show that training with the ME data boosts model's performance in standard VCR evaluation. Lastly, our in-depth analysis and comparison  reveal interesting findings: (1) semantically low-level information can assist learning of high-level information but not the opposite; (2) visual information is generally under utilization compared with text.
   -->
+  
+  
+### Examples of Data  
+  
+
+An example of VCR image: 
+![alt text](https://github.com/ZhecanJamesWang/Multimodal-Evaluation/blob/gh-pages/motivation.pdf "example")
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
