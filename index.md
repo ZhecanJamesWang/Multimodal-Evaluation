@@ -14,14 +14,20 @@ To provide an in-depth analysis, we present a **Multimodal Evaluation (ME)** pip
   
 ### Examples of Data  
   
+ME is built on top of Visual Commonsense Reasoning (VCR). For every original VCR image and question pair, ME provides three sub-questions from three perspectives: Vision, Question-related Logic and Background Knowledge.
+
+As shown in the example below, Q1 is the original VCR question and Q2, Q3 and Q4 are our sub-questions.
 
 An example of VCR image: 
 ![alt text](https://github.com/ZhecanJamesWang/Multimodal-Evaluation/blob/gh-pages/example.jpg "example")
 
 
+![alt text](https://github.com/ZhecanJamesWang/Multimodal-Evaluation/blob/gh-pages/example2.jpg "example2")
+
+<!-- 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -46,7 +52,10 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZhecanJamesWang/Multimodal_Eval/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+ --> -->
 ### Support or Contact
-
+<!-- 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ -->
+ 
+ If you are interested in downloading the data, please contact (olinzhecanwang@gmail.com) for obtaining a data request form.
