@@ -16,7 +16,7 @@ To provide an in-depth analysis, we present a **Multimodal Evaluation (ME)** pip
   
 
 An example of VCR image: 
-![alt text](https://github.com/ZhecanJamesWang/Multimodal-Evaluation/blob/gh-pages/motivation.pdf "example")
+![alt text](https://github.com/ZhecanJamesWang/Multimodal-Evaluation/blob/gh-pages/example.jpg "example")
 
 
 ### Markdown
